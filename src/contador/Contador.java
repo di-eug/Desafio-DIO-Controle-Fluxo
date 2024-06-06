@@ -25,7 +25,7 @@ public class Contador {
 		};
 		
 		if(primeiro == segundo) {
-			System.out.println("Os dois parâmetro são iguais, logo não houve iterações");}
+			System.out.println("Os dois parâmetro são iguais, logo não houveram iterações");}
 
 		int contagem = segundo - primeiro;
 		
